@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@maticnetwork/maticjs": "^3.4.0-beta.0"
+  }
+}
